@@ -1,5 +1,5 @@
 
-<img width="90%" src="stepik, statistic.pdf"/>
+<img width="90%" src="https://github.com/pupelula/Education/blob/main/stepik%2C%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.png"/>
 
 <img width="90%" src="https://github.com/pupelula/Education/blob/main/stepik%2C%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.png"/>
 
