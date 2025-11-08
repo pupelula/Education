@@ -1,6 +1,6 @@
 <img width="1688" height="1194" alt="image" src="https://github.com/user-attachments/assets/018c0e83-2f77-405e-8656-37d496b10651" /># Certificates of course completion
 
-<img width="90%" src="https://github.com/pupelula/Education/blob/205b710035432c0888f02dd66c2320c0423e42d7/Statistic-stepik-certificate.pdf"/>
+<img width="90%" src="[https://github.com/pupelula/Education/blob/205b710035432c0888f02dd66c2320c0423e42d7/Statistic-stepik-certificate.pdf](https://github.com/pupelula/Education/blob/main/Statistic-stepik-certificate.pdf)"/>
 
 <img width="90%" src="https://github.com/pupelula/Education/blob/main/karpov%2C%20SQL.%20png.png"/>
 
